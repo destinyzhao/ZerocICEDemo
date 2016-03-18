@@ -12,7 +12,6 @@
 
 @interface ViewController ()
 {
-    id<ICECommunicator> communicator;  //Ice连接器
     id<systemmanageSystemManageServicePrx> systemManageServicePrx;
 }
 
