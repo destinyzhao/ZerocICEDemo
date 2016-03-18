@@ -2,8 +2,9 @@
 //  IceClientUtil.m
 //  test
 //
-//  Created by 邓燎燕 on 15/12/8.
-//  Copyright © 2015年 邓燎燕. All rights reserved.
+//
+//  Created by Alex on 16/1/21.
+//  Copyright © 2016年 Alex. All rights reserved.
 //
 
 #import "IceClientUtil.h"
